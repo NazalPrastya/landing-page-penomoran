@@ -51,7 +51,7 @@ const CardSistem = () => {
         <h2 className="absolute text-3xl text-center bottom-5 right-0 left-0 z-10">Sistem Penomoran PPK 2023</h2>
       </a>
 
-      <a href="#" className="w-full md:w-1/3 border  bg-gradient-to-br from-mine-blue to-mine-font_paragraph text-white rounded-xl duration-300 hover:shadow-lg hover:shadow-white group relative z-[100] hover:pb-14 pb-2">
+      <a href="#" className="w-full md:w-1/3 border  bg-mine-blue text-white rounded-xl duration-300 hover:shadow-lg hover:shadow-white group relative z-[100] hover:pb-14 pb-2">
         <div className="w-full bg-mine-green flex items-center justify-center p-10 rounded-b-[8rem] group-hover:-translate-y-10 duration-300 relative z-[100]">
           <span className="text-black w-40 h-40 rounded-full bg-mine-yellow flex items-center justify-center text-4xl border-4 border-mine-semu_green font-semibold group-hover:scale-110 duration-300">2024</span>
         </div>
