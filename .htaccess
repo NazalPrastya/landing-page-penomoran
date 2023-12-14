@@ -7,7 +7,7 @@
   RewriteCond %{REQUEST_FILENAME} !-l
   RewriteRule . /index.html [L]
 
-  # Redirect http to https
+  # Redirect http to http
   # RewriteCond %{HTTPS} off 
   # RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 </IfModule>
